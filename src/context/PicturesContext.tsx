@@ -79,7 +79,7 @@ const PicturesProvider = ({ children }: { children: ReactNode }) => {
             PICTURES,
             JSON.stringify(pictures)
           )
-        } catch (e) { }
+        } catch (e) {}
       }
     }
     persistPictures()
@@ -93,7 +93,7 @@ const PicturesProvider = ({ children }: { children: ReactNode }) => {
         const jsonPictures = await AsyncStorage.getItem(PICTURES)
         if (!isNil(jsonPictures))
           setPictures(JSON.parse(jsonPictures))
-      } catch (e) { }
+      } catch (e) {}
     }
     getPictures()
   }, [])
