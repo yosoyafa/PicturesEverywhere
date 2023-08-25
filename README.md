@@ -18,8 +18,7 @@ With **Pictures Everywhere** you can:
 
 ## Video recording
 [Android](https://github.com/yosoyafa/PicturesEverywhere/assets/19701443/543c04e9-72b3-491c-81d2-eee477b63b12)
-
-https://github.com/yosoyafa/PicturesEverywhere/assets/19701443/a8eed810-fc15-473f-a3c3-367dd7afa4d9
+[iOS](https://github.com/yosoyafa/PicturesEverywhere/assets/19701443/a8eed810-fc15-473f-a3c3-367dd7afa4d9)
 
 ## Technologies
 - React Native
